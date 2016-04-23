@@ -16,6 +16,15 @@
     },
     "react/react-dom.d.ts": {
       "commit": "a7b9b1adbfebf0d3725e81ca25fb8079f9d33f6b"
+    },
+    "redux-devtools/redux-devtools.d.ts": {
+      "commit": "a7b9b1adbfebf0d3725e81ca25fb8079f9d33f6b"
+    },
+    "redux-devtools-log-monitor/redux-devtools-log-monitor.d.ts": {
+      "commit": "a7b9b1adbfebf0d3725e81ca25fb8079f9d33f6b"
+    },
+    "redux-devtools-dock-monitor/redux-devtools-dock-monitor.d.ts": {
+      "commit": "a7b9b1adbfebf0d3725e81ca25fb8079f9d33f6b"
     }
   }
 }
